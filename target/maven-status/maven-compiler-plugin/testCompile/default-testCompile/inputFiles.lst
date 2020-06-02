@@ -1,2 +1,7 @@
-/Users/liqiang/Downloads/workspace/gitcode/coin-parent-sdk/cosmos-java-sdk/src/test/java/io/cosmos/api/SignMsgSendTest.java
-/Users/liqiang/Downloads/workspace/gitcode/coin-parent-sdk/cosmos-java-sdk/src/test/java/io/cosmos/api/SignTransactionTest.java
+/Users/pizi/github/okchain-java-sdk/src/test/java/com/okchain/client/BenchMarkTest.java
+/Users/pizi/github/okchain-java-sdk/src/test/java/com/okchain/client/impl/OKChainRestClientImplTest.java
+/Users/pizi/github/okchain-java-sdk/src/test/java/com/okchain/client/impl/OKChainRPCClientImplTest.java
+/Users/pizi/github/okchain-java-sdk/src/test/java/com/okchain/common/StrUtilsTest.java
+/Users/pizi/github/okchain-java-sdk/src/test/java/com/okchain/encoding/EncodingTest.java
+/Users/pizi/github/okchain-java-sdk/src/test/java/com/okchain/transaction/BuildTransactionTest.java
+/Users/pizi/github/okchain-java-sdk/src/test/java/com/okchain/crypto/CryptoTest.java
